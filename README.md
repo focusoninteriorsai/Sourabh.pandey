@@ -1,10 +1,10 @@
 # Sourabh Pandey Portfolio
 
-The final eight-page static website is in [`sourabh-pandey-portfolio/`](sourabh-pandey-portfolio/).
+The complete nine-page, standalone static portfolio is in [`sourabh-pandey-portfolio/`](sourabh-pandey-portfolio/).
 
-Open [`index.html`](sourabh-pandey-portfolio/index.html) directly in a browser. No installation, build, backend or deployment is required.
+Open [`index.html`](sourabh-pandey-portfolio/index.html) directly in a browser. No build, server, backend or deployment is required.
 
-- [Setup, features, research and editing guide](sourabh-pandey-portfolio/README.md)
-- [Content and assets awaiting confirmation](sourabh-pandey-portfolio/CONTENT-TO-CONFIRM.md)
+- [Portfolio structure, research URLs and editing guide](sourabh-pandey-portfolio/README.md)
+- [Facts and assets requiring confirmation](sourabh-pandey-portfolio/CONFIRM.md)
 
-This final structure replaces the earlier `Sourabh-Pandey-Portfolio/` folder. Credentials are now included in Highlights, as requested.
+The supplied LinkedIn profile could not be accessed directly during research; unverified facts are disclosed rather than guessed.
